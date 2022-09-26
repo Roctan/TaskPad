@@ -1,0 +1,5 @@
+Taskpad is a trial for an app that can list all your notes, add them as a list, delete them or edit them.
+
+When we add a note and press OK, it adds that to a storage list which is added with other notes if exists.
+Pressing deleting icon creates an event which deletes the note from the storage.
+Pressing Edit icon creates event to edit the note.
